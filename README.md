@@ -1,4 +1,4 @@
-# Credit_Risk_Classification
+# Credit Risk Classification
 ## Module 20 Challenge
 ### By Eduardo Almonte
 
@@ -36,4 +36,13 @@ After generating predictions and evaluating the model, the focus was on interpre
 
 By following these steps, we aimed to create a reliable and interpretable model that can help the lending company make better decisions regarding loan approvals.
 
+## Summary
 
+I recommend using this model for predicting loan outcomes, as it has demonstrated strong performance in accurately classifying loan risks.
+
+
+![matrix](https://github.com/almonte951/Credit_Risk_Classification/blob/main/Images/condusion%20matrix%20df.png)
+
+![report](https://github.com/almonte951/Credit_Risk_Classification/blob/main/Images/Classification%20Report.png)
+
+The logistic regression model performs exceptionally well in predicting both healthy and high-risk loans. It correctly identified 18,655 healthy loans, with only 36 incorrectly classified as healthy. The model achieved a 100% precision in predicting healthy loans, while the precision for high-risk loans was 84%. Overall, the logistic regression model proves to be highly effective in classifying loan types.
