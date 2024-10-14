@@ -41,6 +41,7 @@ By following these steps, we aimed to create a reliable and interpretable model 
 I recommend using this model for predicting loan outcomes, as it has demonstrated strong performance in accurately classifying loan risks.
 
 
+
 ![matrix](https://github.com/almonte951/Credit_Risk_Classification/blob/main/Images/condusion%20matrix%20df.png)
 
 ![report](https://github.com/almonte951/Credit_Risk_Classification/blob/main/Images/Classification%20Report.png)
